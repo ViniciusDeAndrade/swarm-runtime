@@ -63,6 +63,7 @@ public class DockerApp {
 				line++;
 			}	
 		}
+		
 		settleTuple.flushCSV();
 
 		System.out.println("terminou");
